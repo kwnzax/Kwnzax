@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Hi ! my name is Kenza, I'm a devoted student who's willing to explore the creative world of coding ! <br>Due to a passion for technology and digital, I decided to start my journey in programing and recently graduated in web development from OpenClassrooms 🥳</p>
+<p align="left">Hi ! I'm Nana,a devoted student who's willing to explore the creative world of coding ! <br>Due to a passion for technology and digital, I decided to start my journey in programing and recently graduated in web development from OpenClassrooms 🥳</p>
 
 ###
 
