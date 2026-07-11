@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Welcome to Kwnzax's profile 🌿</h1>
+<h1 align="center">Welcome to Nana's profile 🌿</h1>
 
 ###
 
