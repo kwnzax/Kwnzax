@@ -45,7 +45,7 @@
 
 ###
 
-<ul align="left"><li>My goal is to keep learning new ways to create, design and code innovative projects</li><li>I also have a great interest in video games/gaming and audiovisuals👾</li><li>I participated to school 42's "piscine" once and really liked the system so I intend to try again !</li></ul>
+<ul align="left"><li>My goal is to keep learning new ways to create, design and code innovative projects</li><li>I also have a great interest in video games, graphic design and audiovisuals👾</li><li>I participated to school 42's "piscine" once and really liked the system so I intend to try again !</li></ul>
 
 ###
 
